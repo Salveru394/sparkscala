@@ -10,7 +10,7 @@ def main(args: Array[String]):Unit ={
   }else if (isStudent) {
     println("you are eligible for a student discount")
   }else{
-    println("At age $age, you are not eligible for any any discount")
+    println("At age $age, you are not eligible for any discount")
   }
 }
 }
